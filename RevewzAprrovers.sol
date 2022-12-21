@@ -5,7 +5,7 @@ import "@openzeppelin/contracts-upgradeable/security/PausableUpgradeable.sol";
 import "@openzeppelin/contracts-upgradeable/access/AccessControlUpgradeable.sol";
 import "@openzeppelin/contracts-upgradeable/proxy/utils/Initializable.sol";
 import "@openzeppelin/contracts-upgradeable/proxy/utils/UUPSUpgradeable.sol";
-import "./struct/ApproverRewardAccount.sol";
+import "./ApproverRewardAccount.sol";
 import "./RevewzToken.sol";
 
 /// @custom:security-contact projectrevewz@gmail.com
